@@ -1,0 +1,8 @@
+MessengerClient/build
+MessengerClient/gradle
+MessengerClient/.idea
+MessengerClient/.gradle
+MessengerServer/build
+MessengerServer/gradle
+MessengerServer/.idea
+MessengerServer/.gradle
